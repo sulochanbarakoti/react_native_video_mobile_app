@@ -1,17 +1,22 @@
 import { View, Text, FlatList } from "react-native";
-import React from "react";
+import React, { useState } from "react";
+import * as Animatable from "react-native-animatable";
+
+const TrendingItem = ({ activeItem, item }) => {
+  return <Animatable.View></Animatable.View>;
+};
 
 const Trending = ({ posts }) => {
+  const [activeItem, setActiveItem] = useState(posts[0]);
   return (
-    <></>
-    // <FlatList
-    //   data={[{ id: 1 }, { id: 2 }, { id: 3 }]}
-    //   keyExtractor={(item) => item.id}
-    //   renderItem={({ item }) => (
-    //     <Text className="text-3xl text-white">{item}</Text>
-    //   )}
-
-    // />
+    <FlatList
+      data={posts}
+      keyExtractor={(item) => item.$id}
+      renderItem={({ item }) => (
+        <TrendingItem activeItem={activeItem} item={item} />
+      )}
+      horizontal
+    />
   );
 };
 
