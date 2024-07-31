@@ -1,4 +1,20 @@
-
+<style>
+    .screenshot-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around; /* Distribute space around images */
+    }
+    .screenshot-container img {
+      width: 18%; /* Each image takes up 18% of the container's width */
+      height: auto;
+      margin: 10px 0; /* Space between images vertically */
+    }
+    @media (max-width: 768px) {
+      .screenshot-container img {
+        width: 45%; /* Responsive for smaller screens */
+      }
+    }
+  </style>
   <h1>React Native Video Mobile App</h1>
 
   <h2>Description</h2>
