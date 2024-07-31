@@ -8,9 +8,13 @@
   <h2>Screenshot</h2>
   <p>Here is a screenshot of the app in action:</p>
   <p align="center">
-<img src="./screenshot/OpeningScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
-  <img src="./screenshot/LoginScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
-</p>
+    <img src="./screenshot/OpeningScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
+    <img src="./screenshot/LoginScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
+    <img src="./screenshot/RegistrationScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
+    <img src="./screenshot/HomeTab.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
+    <img src="./screenshot/CreateTab.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
+    <img src="./screenshot/ProfileTab.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
+  </p>
   
 
   <h2>Features</h2>
