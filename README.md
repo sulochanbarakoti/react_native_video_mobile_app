@@ -6,6 +6,10 @@
     The React Native Video Mobile App is a mobile application built using React Native and Expo. It allows users to register, log in, upload, view, and manage videos. The app includes features for user authentication using Appwrite, video uploading, video playback, and managing video quality.
   </p>
 
+  <h2>Screenshot</h2>
+  <p>Here is a screenshot of the app in action:</p>
+  <img src="./screenshot/OpeningScreen.jpg" alt="App Screenshot" style="max-width:100%; height:auto;">
+
   <h2>Features</h2>
   <ul>
     <li>User authentication and profile management using Appwrite</li>
