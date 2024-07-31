@@ -9,7 +9,7 @@
   <h2>Screenshot</h2>
   <p>Here is a screenshot of the app in action:</p>
   <img src="./screenshot/OpeningScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
-  <img src="./screenshot/LoginScreen" alt="App Screenshot" style="max-width:100%; height:300px;">
+  <img src="./screenshot/LoginScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
 
   <h2>Features</h2>
   <ul>
