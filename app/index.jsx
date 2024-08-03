@@ -37,7 +37,7 @@ export default function App() {
 
           <Text className="text-sm text-gray-200 mt-10 text-center">
             Where Creativity meets innovation: embark on a journey of limitless
-            exploration with Aora
+            exploration with Video
           </Text>
 
           <CustomButton
