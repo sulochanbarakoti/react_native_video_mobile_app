@@ -46,7 +46,7 @@ const SignIn = () => {
           />
 
           <Text className="text-2xl text-white font-semibold mt-10">
-            Log in to Aora
+            Log in to Video
           </Text>
 
           <FormField
