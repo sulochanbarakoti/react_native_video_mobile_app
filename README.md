@@ -10,7 +10,7 @@
   <p align="center">
     <img src="./ss/OpeningScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
     <img src="./ss/LoginScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
-    <img src="./ss/RegistrationScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
+<!--     <img src="./ss/RegistrationScreen.jpg" alt="App Screenshot" style="max-width:100%; height:300px;"> -->
     <img src="./ss/HomeTab.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
     <img src="./ss/CreateTab.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
     <img src="./ss/ProfileTab.jpg" alt="App Screenshot" style="max-width:100%; height:300px;">
